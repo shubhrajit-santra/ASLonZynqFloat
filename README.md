@@ -20,4 +20,4 @@
 
 ## Terminal Output Snapshot
 
-<img src="images/asl_output.PNG" height="300" >
+<img src="images/asl_output.PNG" height="200" >
